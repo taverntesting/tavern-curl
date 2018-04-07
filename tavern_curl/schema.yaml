@@ -1,0 +1,8 @@
+---
+name: Curl enable schema
+desc: pykwalify schemas for curl
+
+initialisation:
+  curl:
+    required: false
+    type: bool
